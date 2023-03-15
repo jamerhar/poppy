@@ -5,6 +5,7 @@
 
 ### Board Bill of Materials
  |Count|Part|Reference|
+ |-|-|-|-|
  |1|ATmega32A 40 Pin DIP|U1|
  |1|40 Pin DIP Socket|U1|
  |1|USB4085-GF-A USB Type-C|J1|
@@ -23,12 +24,14 @@
  
  ### Solenoid Driver Bill of Materials
  |Count|Part|Reference|
+ |-|-|-|-|
  |1|1N4001 Diode|D1|
  |1|TIP120 Transistor|Q1|
  |1|2.2kΩ Resistor|R1|
  
  ### Case Bill of Materials
   |Count|Part|
+  |-|-|-|-|
   |1|PCB|
   |1|Plate|
   |1|Bottom Case|
