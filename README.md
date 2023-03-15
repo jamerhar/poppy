@@ -27,7 +27,7 @@
  ### Solenoid Bill of Materials
  |Count|Part|Reference|
  |-|-|-|
- |1|uxcell Mini Push 4.5V Solenoid| |
+ |1|Uxcell Mini Push 4.5V @ ~350mA Solenoid| |
  |1|1N4001 Diode|D1|
  |1|TIP120 Transistor|Q1|
  |1|2.2kΩ Resistor|R1|
@@ -48,4 +48,15 @@
   |1|Solenoid Driver PCB (Optional)|
   |2|M2x3mm Socket/Button Head Screw (Optional)|
   
-  8 M2x5mm screws and screw-to-expend inserts are used to secure both halves of the case. 4 M2x5mm screws and inserts are used to secure the plate to the top case. 5 M2x5mm screws and inserts are used to secure the optional solenoid/driver board to the bottom case. 2 M2x3mm screws are used to secure the solenoid to the solenoid daughterboard. 2 M2x5mm screws are used to secure the weight to the bottom case, countersunk holes can be drilled and flat head screws can be used for a flush look.
+  8 M2x5mm screws and screw-to-expend inserts are used to secure both halves of the case. 4 M2x5mm screws and inserts are used to secure the plate to the top case. 5 M2x5mm screws and inserts are used to secure the optional solenoid/driver board to the bottom case. 2 M2x3mm screws are used to secure the solenoid to the solenoid daughterboard. 2 M2x5mm screws are used to secure the weight to the bottom case, countersunk holes can be drilled and flat head screws can be used for a flush look. I had my case printed through JLCPCB's resin 3D printing servies since I don't have a printer large enough for this board. I've had successful prints with both 8000 resin and 8111X resin, with the latter being cheaper. There is a small amount of warping throughout the thin F-row separating area on both of my prints due to the extremely thin geometry, but it does not interfere during use (YMMV).
+  
+### Disclaimer
+I do not offer any sort of warranty, nor can I be held liable if something goes wrong.
+Please thoroughly review the design, especially involving the case, before ordering anything. There are possibly small errors and other defects within the design, this was my first attempt at case design and it is by no means perfect.
+
+### Additional Images
+One revision out of date bottom case:
+![image](https://user-images.githubusercontent.com/68519705/225174943-ef239b39-ab28-41f4-9f8c-5829ee525419.png)
+
+Weight and solenoid driver wiring:
+![image](https://user-images.githubusercontent.com/68519705/225174769-48a7f4d5-7041-4078-bf5d-9a40ae2c5a2b.png)
