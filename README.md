@@ -42,6 +42,7 @@
   |1|Bottom Case (3D/Resin Printed)|
   |1|Top Case (3D/Resin Printed)|
   |1|Weight|
+  |4|10mm Diameter Adhesive Bumpons|
   |19|Brass Screw-to-Expand Inserts, M2x4mm|
   |19|M2x5mm Button Head Screw|
   |1|Solenoid Daugherboard PCB (Optional)|
